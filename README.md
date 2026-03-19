@@ -76,9 +76,6 @@ The dashboard is designed to help businesses make **data-driven decisions** by v
 ---
 
 ## 🔹 Dashboard Preview
-
-*(Add your screenshot here)*
-
 ![Sales Dashboard](dashboard-preview.png)
 
 ---
